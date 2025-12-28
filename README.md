@@ -30,6 +30,12 @@ The guest network is isolated from the internal LAN to improve security.
 - Cisco Packet Tracer
 - Basic networking concepts
 
+## Key Learning Outcomes
+- Understanding of basic network topology design
+- IP addressing and gateway configuration
+- Network segmentation for security
+- Practical use of Cisco Packet Tracer
+
 ## Author
 Krish Chetan Patel  
 Computer and Networking Engineering Technology (First Year)
