@@ -15,6 +15,10 @@ The network supports multiple departments and includes a secure guest Wi-Fi netw
 - Basic network security and segmentation
 
 ## Network Topology
+The network consists of a central router and switch connecting internal department workstations,
+a shared printer, and a separate guest Wi-Fi router.  
+The guest network is isolated from the internal LAN to improve security.
+
 ![Network Diagram](network-topology.png)
 
 ## IP Addressing Scheme
